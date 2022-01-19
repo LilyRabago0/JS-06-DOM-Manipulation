@@ -107,3 +107,6 @@ Challenge Yourself
   11. Loop over all the li inside the ol tag and give them a background "green" color.
   12. Remove the div with a footer class.
   
+
+Link: https://github.com/generation-org/JS/tree/master/JS-06%20-%20DOM%20Manipulation
+  
